@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local generated projects
+novel_projects/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
